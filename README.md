@@ -1,5 +1,6 @@
-大二学生  
-菜鸡一只🐔
+🌶️🐔 大二学生  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Orilx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Orilx/Orilx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
