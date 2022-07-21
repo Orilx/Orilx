@@ -1,4 +1,4 @@
-🌶️🐔 大二学生  
+🌶️🐔中的吮指原味鸡
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Orilx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
